@@ -1,2 +1,2 @@
-# ANGRYBIRDS8
-Making day/timeset
+# p5.play-boilerplate
+Boiler plate for p5.play
